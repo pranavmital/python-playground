@@ -10,6 +10,3 @@ for i in usr_input:
     output += mapping[int(i)] + ' '
 
 print(output)
-
-
-
